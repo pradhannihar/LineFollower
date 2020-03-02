@@ -1,4 +1,4 @@
-This code uses one main sensor for tracking the whole track and two additional sensor for correction furing turns. It uses three 
+This code uses one main sensor for tracking the whole track and two additional sensor for correction during turns. It uses three 
 sensors data for inversion detection. 
 
 
